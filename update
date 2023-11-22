@@ -1,93 +1,111 @@
 {
-  "Version": "99.2.0",
-  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
-  "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
-  "Servers": [
-    {
-      "Name": "America",
-      "FLAG": "us",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Toronto",
-      "FLAG": "ca",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Russia VOIP",
-      "FLAG": "ph",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "London VOIP",
-      "FLAG": "uk",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Singapore",
-      "FLAG": "sg",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "AMERICA 2",
-      "FLAG": "us",
-      "ServerIP": "154.38.165.209",
-      "ServerUser": "epsserver",
-      "ServerPass": "epsserver",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    }
-  ],
-  "Networks": [
-    {
-      "Name": "DEFAULT CONFIG",
-      "pInfo": "WORKING ALL NETWORK",
-      "udpResolver": "8.8.8.8:53",
-      "udpUse": true
-    },
-    {
-      "Name": "DEFAULT CONFIG",
-      "pInfo": "WORKING ALL NETWORK",
-      "udpResolver": "1.1.1.1:53",
-      "udpUse": true
-    }
-  ]
+ "Version": "10",
+ "ReleaseNotes": " 🇾 🇴 🇺  🇼 🇪 🇱 🇨 🇴 🇲 🇪  \n🔒WHAT WE LOVE 💕 IS TO HELP🔒\n  \nLINKS 👇 ⓅⒺⓇⓈⓄⓃⒶⓁ  \n1.  https:\/\/t.me\/nshuti_j5\n2.  https:\/\/t.me\/mudasobwaNet\n\nLINKS 👇 ⒼⓇⓄⓊⓅ \n1. https:\/\/t.me\/j5eye_vpn\n\n    ",
+ "ReleaseNotes1": "😊  ENJOY THIS 😊\nⓃⒺⓌ ⓅⓇⒺⓂⒾⓊⓂ ⓈⒺⓇⓋⒺⓇⓈ ⒶⓋⒶⒾⓁⒶⒷⓁⒺ ⓃⓄⓌ \nⒽⓄⓅⒺ ⓎⓄⓊ ⒺⓃⒿⓄⓎ \n\n🔒🔒🔒🔒🔒🔒🔒🔒🔒🔒🔒",
+ "Servers": [
+  {
+   "Name": "DENMARK",
+   "FLAG": "dk",
+   "ServerIP": "68.183.149.21",
+   "ProxyIP": "",
+   "ServerPort": "",
+   "SSLPort": "",
+   "ProxyPort": "",
+   "ServerUser": "nshuti",
+   "ServerPass": "nshuti",
+   "sInfo": "PREMIUM 1",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "ENJOY ☺️ BY J5 ",
+   "udpAcc": "{\n  \"up_mbps\": 90,\n  \"down_mbps\": 100,\n  \"retry\": 20,\n  \"retry_interval\": 1,\n  \"socks5\": {\n    \"listen\": \"127.0.0.1:1080\"\n  },\n  \"insecure\": true,\n  \"recv_window_conn\": 15728640,\n  \"recv_window\": 39321600,\n \"idle_timeout\": 60,\n \"hop_interval\": 1800,\n \"resolve_preference\": \"4\"\n}\n",
+   "tunnelT": "UDP"
+  },
+  {
+   "Name": "GERMANY",
+   "FLAG": "de",
+   "ServerIP": "161.35.177.213",
+   "ProxyIP": "",
+   "ServerPort": "",
+   "SSLPort": "",
+   "ProxyPort": "",
+   "ServerUser": "nshuti",
+   "ServerPass": "nshuti",
+   "sInfo": "PREMIUM 2",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "ENJOY 🙂 BY J5 ",
+   "udpAcc": "{\n  \"up_mbps\": 90,\n  \"down_mbps\": 100,\n  \"retry\": 20,\n  \"retry_interval\": 1,\n  \"socks5\": {\n    \"listen\": \"127.0.0.1:1080\"\n  },\n  \"insecure\": true,\n  \"recv_window_conn\": 15728640,\n  \"recv_window\": 39321600,\n \"idle_timeout\": 60,\n \"hop_interval\": 1800,\n \"resolve_preference\": \"4\"\n}\n",
+   "tunnelT": "UDP"
+  },
+  {
+   "Name": "CANADA",
+   "FLAG": "ca",
+   "ServerIP": "68.183.149.21",
+   "ProxyIP": "",
+   "ServerPort": "",
+   "SSLPort": "",
+   "ProxyPort": "",
+   "ServerUser": "nshuti",
+   "ServerPass": "nshuti",
+   "sInfo": "PREMIUM 3",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "ENJOY ☺️ BY J5",
+   "udpAcc": "{\n  \"up_mbps\": 90,\n  \"down_mbps\": 100,\n  \"retry\": 20,\n  \"retry_interval\": 1,\n  \"socks5\": {\n    \"listen\": \"127.0.0.1:1080\"\n  },\n  \"insecure\": true,\n  \"recv_window_conn\": 15728640,\n  \"recv_window\": 39321600,\n \"idle_timeout\": 60,\n \"hop_interval\": 1800,\n \"resolve_preference\": \"4\"\n}\n",
+   "tunnelT": "UDP"
+  },
+  {
+   "Name": "UK ",
+   "FLAG": "uk",
+   "ServerIP": "161.35.177.213",
+   "ProxyIP": "",
+   "ServerPort": "",
+   "SSLPort": "",
+   "ProxyPort": "",
+   "ServerUser": "nshuti",
+   "ServerPass": "nshuti",
+   "sInfo": "PREMIUM 4",
+   "Slowchave": "",
+   "Nameserver": "",
+   "servermessage": "ENJOY ☺️ BY J5 ",
+   "udpAcc": "{\n  \"up_mbps\": 90,\n  \"down_mbps\": 100,\n  \"retry\": 20,\n  \"retry_interval\": 1,\n  \"socks5\": {\n    \"listen\": \"127.0.0.1:1080\"\n  },\n  \"insecure\": true,\n  \"recv_window_conn\": 15728640,\n  \"recv_window\": 39321600,\n \"idle_timeout\": 60,\n \"hop_interval\": 1800,\n \"resolve_preference\": \"4\"\n}\n",
+   "tunnelT": "UDP"
+  },
+  {
+   "Name": "J5",
+   "FLAG": "us",
+   "ServerIP": "id.com",
+   "ServerPort": "80",
+   "SSLPort": "443",
+   "ProxyIP": "id.com",
+   "ProxyPort": "80",
+   "ServerUser": "home",
+   "ServerPass": "home",
+   "sInfo": "",
+   "Slowchave": "givuv",
+   "Nameserver": "",
+   "servermessage": "",
+   "udpAcc": "",
+   "tunnelT": "SSH"
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "🔒PROVIDED BY J5-TECH🔒",
+   "Payload": "",
+   "SNI": "",
+   "pInfo": "ENJOY ☺️ SEND US 💕",
+   "Slowdns": "",
+   "WebProxy": "",
+   "WebPort": "",
+   "udpResolver": "8.8.8.8:53",
+   "isSSL": false,
+   "isPayloadSSL": false,
+   "isInject": false,
+   "isDirect": false,
+   "isSlow": false,
+   "isWeb": false,
+   "udpUse": true
+  }
+ ]
 }
